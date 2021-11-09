@@ -1,0 +1,17 @@
+{
+  "name": "prototipo",
+  "version": "1.0.0",
+  "description": "Creating a prototype",
+  "main": "index.js",
+  "scripts": {
+    "test": "node"
+  },
+  "keywords": [
+    "prototipo"
+  ],
+  "author": "Matheus Romaneli",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^39.2.0"
+  }
+}
